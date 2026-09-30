@@ -4,6 +4,31 @@ Status: Active product contract
 Baseline date: 2026-07-09
 Last reviewed: 2026-07-10
 
+## Repository Reading Boundary (Non-Normative)
+
+This repository is a PRD-only preserved snapshot. The original `Status: Active
+product contract`, `Baseline date`, and `Last reviewed` metadata describe the
+preserved PRD contract, not current implementation or readiness. `v0.1 Public
+Alpha` is the specified product target, not the repository's release status.
+
+The following retained references are historical, unavailable owner references
+in this snapshot:
+
+- `docs/START_HERE_FOR_AI_AGENTS.md`
+- `resources/traceability/p0-coverage.manifest.json`
+- `docs/SPEC_TRACEABILITY.md`
+- `docs/V0_1_IMPLEMENTATION_PLAYBOOK.md`
+- `resources/traceability/acceptance.manifest.json`
+- `AGENTS.md`
+- `docs/AI_DEVELOPMENT_GUIDE.md`
+
+The same availability boundary applies throughout this PRD to all other absent
+owner documents, manifests, schemas, tools, tests, build systems, CI workflows,
+and release infrastructure. Retained references do not establish their presence,
+implementation evidence, or release readiness, or authorize reconstruction. This
+note describes repository availability only; it does not change the preserved
+requirements, normative language, stable IDs, or P0/P1/P2 scope.
+
 ## 0. Contract Authority And AI Use
 
 This PRD is written for AI Coding Agents that implement and maintain Pige. It is a
